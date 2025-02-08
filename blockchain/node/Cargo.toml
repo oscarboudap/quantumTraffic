@@ -7,3 +7,14 @@ edition = "2018"
 frame-support = "3.0.0"
 frame-system = "3.0.0"
 sp-std = "3.0.0"
+syn = "=1.0.109"
+schnorrkel = { git = "https://github.com/w3f/schnorrkel", rev = "a21bade4" }
+
+[patch.crates-io]
+schnorrkel = { git = "https://github.com/w3f/schnorrkel", rev = "a21bade4" }
+
+
+
+
+
+
