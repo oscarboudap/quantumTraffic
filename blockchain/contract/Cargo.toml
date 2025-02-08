@@ -1,0 +1,11 @@
+[package]
+name = "peaje_contract"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+ink_primitives = "3.0.0"
+ink_metadata = "3.0.0"
+ink_env = "3.0.0"
+ink_storage = "3.0.0"
+ink_prelude = "3.0.0"

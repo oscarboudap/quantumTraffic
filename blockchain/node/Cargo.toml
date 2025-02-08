@@ -1,0 +1,9 @@
+[package]
+name = "blockchain-node"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+frame-support = "3.0.0"
+frame-system = "3.0.0"
+sp-std = "3.0.0"
